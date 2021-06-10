@@ -1,4 +1,4 @@
-# AKP_CSP
+# Webgraphee_CSP
 
 Allow Content Security Policy in Magento2
 
@@ -21,6 +21,4 @@ to
 
 4.4 php bin/magento cache:flush
 
-If any query or doubt please create new issue or you can drop the mail on anant101289@gmail.com
 
-Thank you
